@@ -46,4 +46,4 @@ async def on_message(message):
     else:
         await message.channel.send("Üzgünüm, anlamadım. Yardımcı olabileceğim başka bir şey var mı?")
 
-client.run("token")
+client.run("tokenı buraya yapıştırın.")
